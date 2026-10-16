@@ -1,0 +1,68 @@
+SqlDump Trial License
+Copyright (c) 2026 DBMS Works. All rights reserved.
+
+This is a license agreement between you and DBMS Works for the SqlDump software (SqlDump, SqlDumpWin and the files
+that come with them, the "Software"). By installing or using the Software you agree to these terms.
+
+1. Trial use
+   You may install and use the Software free of charge, on any number of computers, to evaluate it and for your
+   own internal work. The trial writes at most 1,000 rows per dump; every other feature is available.
+
+2. You may not
+   a. reverse engineer, decompile or disassemble the Software, except where the law allows it despite this limit;
+   b. remove, disable or work around the row limit or the license check;
+   c. modify the Software, or sell, rent, lease or sublicense it;
+   d. redistribute the Software, except the unmodified download package, complete with this license, free of charge.
+
+3. Third-party components
+   The Software includes components owned by others (database drivers, the .NET runtime and more). They are
+   licensed under their own terms, listed in licenses/THIRD-PARTY-NOTICES.txt. Those terms apply to those components.
+
+4. No warranty
+   The Software is provided "as is", without warranty of any kind, express or implied, including fitness for a
+   particular purpose. Check the files it writes before you rely on them.
+
+5. Limitation of liability
+   To the extent the law allows, DBMS Works is not liable for any damages arising from the use of the Software,
+   including lost data or lost profits.
+
+6. Termination
+   This license ends automatically if you break these terms. You must then stop using the Software and delete it.
+
+7. Full version
+   To use the Software without the row limit, contact DBMS Works: doniikim@gmail.com
+
+-------------------------------------------------------------------------------------------------------------------
+
+SqlDump 체험판 사용 조건
+Copyright (c) 2026 DBMS Works. All rights reserved.
+
+이 문서는 SqlDump 소프트웨어(SqlDump, SqlDumpWin 과 함께 제공되는 파일, 이하 "소프트웨어")에 대한 귀하와 DBMS Works
+사이의 사용 조건입니다. 소프트웨어를 설치하거나 사용하면 이 조건에 동의한 것으로 봅니다.
+
+1. 체험판 사용
+   소프트웨어를 무료로, 대수 제한 없이 설치해 평가하고 귀하의 내부 업무에 쓸 수 있습니다.
+   체험판은 덤프 한 번에 최대 1,000 행까지 씁니다. 그 밖의 기능은 모두 쓸 수 있습니다.
+
+2. 하면 안 되는 것
+   가. 소프트웨어를 리버스 엔지니어링 · 디컴파일 · 디스어셈블하는 것 (법이 이 제한과 상관없이 허용하는 경우는 예외)
+   나. 행 제한이나 라이선스 확인을 없애거나 끄거나 우회하는 것
+   다. 소프트웨어를 고치거나, 팔거나, 빌려주거나, 다시 사용 허락하는 것
+   라. 소프트웨어를 다시 배포하는 것 (고치지 않은 내려받기 묶음을 이 문서와 함께 무료로 나누는 것은 예외)
+
+3. 서드파티 구성 요소
+   소프트웨어에는 다른 회사가 권리를 가진 구성 요소(DB 드라이버, .NET 런타임 등)가 들어 있습니다.
+   그 구성 요소에는 licenses/THIRD-PARTY-NOTICES.txt 에 적힌 각자의 조건이 적용됩니다.
+
+4. 보증 없음
+   소프트웨어는 "있는 그대로" 제공되며, 특정 목적에 맞는지를 포함해 명시적 · 묵시적 보증을 하지 않습니다.
+   소프트웨어가 만든 파일은 쓰기 전에 확인하십시오.
+
+5. 책임 제한
+   법이 허용하는 범위에서, DBMS Works 는 소프트웨어 사용으로 생긴 손해(데이터 손실 · 이익 손실 포함)에 책임지지 않습니다.
+
+6. 종료
+   이 조건을 어기면 사용 허락은 자동으로 끝납니다. 그때는 소프트웨어 사용을 멈추고 지워야 합니다.
+
+7. 정식판
+   행 제한 없이 쓰려면 DBMS Works 에 연락하십시오: doniikim@gmail.com
