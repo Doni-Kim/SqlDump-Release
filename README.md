@@ -2,7 +2,7 @@
 
 Run a SELECT on your database and save the result as CSV — a Windows GUI and a command-line tool for Windows and Linux.
 
-**Databases:** Oracle · Microsoft SQL Server · PostgreSQL · MySQL / MariaDB · IBM Db2 · SAP HANA · Sybase ASE
+**Databases:** Oracle · Microsoft SQL Server · PostgreSQL · MySQL / MariaDB · IBM Db2 · SAP HANA · Sybase ASE · Informix
 
 > **Trial version** — each dump writes at most **1,000 rows**. Every other feature is available. See [LICENSE](LICENSE.txt).
 
@@ -48,7 +48,7 @@ The full manual is in the package and attached to each release: [English](../../
 
 DB 에서 SELECT 결과를 CSV 로 저장합니다. Windows GUI 와 CLI(Windows · Linux)가 들어 있습니다.
 
-**지원 DB:** Oracle · SQL Server · PostgreSQL · MySQL / MariaDB · Db2 · SAP HANA · Sybase ASE
+**지원 DB:** Oracle · SQL Server · PostgreSQL · MySQL / MariaDB · Db2 · SAP HANA · Sybase ASE · Informix
 
 > **체험판** — 덤프 한 번에 **1,000 행**까지 씁니다. 그 밖의 기능은 모두 쓸 수 있습니다. 사용 조건은 [LICENSE](LICENSE.txt) 를 보십시오.
 
