@@ -4,7 +4,8 @@ Run a SELECT on your database and save the result as CSV — a Windows GUI and a
 
 **Databases:** Oracle · Microsoft SQL Server · PostgreSQL · MySQL / MariaDB · IBM Db2 · SAP HANA · Sybase ASE · Informix
 
-> **Trial version** — each dump writes at most **1,000 rows**. Every other feature is available. See [LICENSE](LICENSE.txt).
+> **Trial version** — without a license file each dump writes at most **1,000 rows**; every other feature is available.
+> Register the license file issued by DBMS Works to remove usage restrictions. See [LICENSE](LICENSE.txt).
 
 ## Download
 
@@ -50,7 +51,8 @@ DB 에서 SELECT 결과를 CSV 로 저장합니다. Windows GUI 와 CLI(Windows 
 
 **지원 DB:** Oracle · SQL Server · PostgreSQL · MySQL / MariaDB · Db2 · SAP HANA · Sybase ASE · Informix
 
-> **체험판** — 덤프 한 번에 **1,000 행**까지 씁니다. 그 밖의 기능은 모두 쓸 수 있습니다. 사용 조건은 [LICENSE](LICENSE.txt) 를 보십시오.
+> **체험판** — 인증 파일이 없으면 덤프 한 번에 **1,000 행**까지 씁니다. 그 밖의 기능은 모두 쓸 수 있습니다.
+> DBMS Works에서 발급받은 인증 파일을 등록하면 사용 제한이 해제됩니다. 사용 조건은 [LICENSE](LICENSE.txt) 를 보십시오.
 
 - 내려받기: **[Releases](../../releases/latest)** 의 최신 묶음 (Windows x64 zip · Linux x64 tar.gz)
 - .NET 설치가 필요 없습니다. GUI 는 WebView2 런타임이 필요합니다(Windows 11 에는 기본으로 있음).

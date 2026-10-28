@@ -6,7 +6,8 @@ that come with them, the "Software"). By installing or using the Software you ag
 
 1. Trial use
    You may install and use the Software free of charge, on any number of computers, to evaluate it and for your
-   own internal work. The trial writes at most 1,000 rows per dump; every other feature is available.
+   own internal work. Without a license file the Software writes at most 1,000 rows per dump; every other
+   feature is available.
 
 2. You may not
    a. reverse engineer, decompile or disassemble the Software, except where the law allows it despite this limit;
@@ -29,8 +30,12 @@ that come with them, the "Software"). By installing or using the Software you ag
 6. Termination
    This license ends automatically if you break these terms. You must then stop using the Software and delete it.
 
-7. Full version
-   To use the Software without the row limit, contact DBMS Works: doniikim@gmail.com
+7. License file (full version)
+   A license file (sqldump.lic) issued by DBMS Works lets you use the Software without the row limit until the
+   expiry date stated in it. It is issued only to the designated licensee (customer) and only that licensee may
+   use it. You may register and use it on any number of the licensee's computers, but you must not distribute or
+   resell it to third parties or modify it.
+   For license files and purchases, contact DBMS Works: doniikim@gmail.com
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -42,7 +47,7 @@ Copyright (c) 2026 DBMS Works. All rights reserved.
 
 1. 체험판 사용
    소프트웨어를 무료로, 대수 제한 없이 설치해 평가하고 귀하의 내부 업무에 쓸 수 있습니다.
-   체험판은 덤프 한 번에 최대 1,000 행까지 씁니다. 그 밖의 기능은 모두 쓸 수 있습니다.
+   인증 파일이 없으면 덤프 한 번에 최대 1,000 행까지 씁니다. 그 밖의 기능은 모두 쓸 수 있습니다.
 
 2. 하면 안 되는 것
    가. 소프트웨어를 리버스 엔지니어링 · 디컴파일 · 디스어셈블하는 것 (법이 이 제한과 상관없이 허용하는 경우는 예외)
@@ -64,5 +69,8 @@ Copyright (c) 2026 DBMS Works. All rights reserved.
 6. 종료
    이 조건을 어기면 사용 허락은 자동으로 끝납니다. 그때는 소프트웨어 사용을 멈추고 지워야 합니다.
 
-7. 정식판
-   행 제한 없이 쓰려면 DBMS Works 에 연락하십시오: doniikim@gmail.com
+7. 인증 파일 (정식판)
+   DBMS Works가 발급한 인증 파일(sqldump.lic)이 있으면 해당 파일에 명시된 만료일까지 행 수 제한 없이 사용할 수 있습니다.
+   인증 파일은 지정된 사용자(고객)에게만 발급되며 해당 사용자만 사용할 수 있습니다. 해당 사용자의 컴퓨터라면
+   수량 제한 없이 등록하여 사용할 수 있으나, 제3자에게 배포·전매하거나 임의로 수정해서는 안 됩니다.
+   인증 파일 발급 및 구매 문의는 DBMS Works로 연락해 주십시오: doniikim@gmail.com
